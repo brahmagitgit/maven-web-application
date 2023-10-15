@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.172.172:8081/repository/sbibank-releases-repo/</url>
+	      <url>http://35.154.27.61:8081/repository/sbibank-releases-repo//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.172.172:8081/repository/sbibank-snapshot-repo/</url>
+	      <url>http://35.154.27.61:8081/repository/sbibank-snapshot-repo//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
